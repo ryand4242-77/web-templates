@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "title": "Live-Edge Dining Table", "meta": "Black walnut · 96″ · seats eight", "tag": "Walnut", "image": "" },
+    { "title": "Paneled Hutch", "meta": "Quartersawn white oak · hand-cut joinery", "tag": "White Oak", "image": "" },
+    { "title": "Spindle Rocking Chair", "meta": "Appalachian cherry · steam-bent back", "tag": "Cherry", "image": "" },
+    { "title": "End-Grain Cutting Boards", "meta": "Hard maple & walnut · food-safe oil", "tag": "Maple", "image": "" },
+    { "title": "Fireplace Mantel", "meta": "Reclaimed barn oak · hand-hewn face", "tag": "Reclaimed", "image": "" },
+    { "title": "Platform Bed Frame", "meta": "White ash · mortise-and-tenon rails", "tag": "Ash", "image": "" }
+  ]
+}
